@@ -29,6 +29,7 @@
   .wiki-content {
     display: flex;
     flex-flow: row-reverse;
+    padding: 10px;
   }
 
   .wiki-text,
